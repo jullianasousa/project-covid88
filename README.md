@@ -30,7 +30,11 @@ it takes the spread of COVID88 between A and B, otherwise.</p></li>
 
 <h2>Running</h2>
 <p>The software is run using the following command line instruction:</p>
-<p><i><b>python defeatCOVID88.py inputFile1.txt inputFile2.txt outputfile.txt</b></i></p>
+
+```
+$ python defeatCOVID88.py inputFile1.txt inputFile2.txt outputfile.txt
+```
+
 <p>wherein:
 <ul>
 <li>inputFile1.txt it is a file with the social network;</li>

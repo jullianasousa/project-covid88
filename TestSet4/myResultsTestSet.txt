@@ -1,0 +1,31 @@
+3
+1
+No contagion between Maria and Paulo
+No contagion between Júnior and Inês
+No contagion between Paulo and Júnior
+No contagion between Júnior and Paulo
+No contagion between Rodolfo and Júnior
+2
+No contagion between Rodolfo and Paulo
+No contagion between Paulo and Marta
+No contagion between Marta and Paulo
+5
+No contagion between Júnior and Maria
+7
+No contagion between Júnior and Marta
+2
+No contagion between Inês and Paulo
+1
+No contagion between Paulo and Rodolfo
+No contagion between Paulo and Inês
+1
+No contagion between Marta and Júnior
+No contagion between Inês and Júnior
+6
+No contagion between Maria and Júnior
+1
+No contagion between Júnior and Rodolfo
+6
+No contagion between Paulo and Maria
+2
+1

@@ -1,0 +1,6 @@
+#Name, IdNb, Age, Direct, Fitness, Immune:
+Gabriela, cvd443, 30, <cvd879, cvd435, cvd950>, 2, No
+Marcelo, cvd435, 25, <cvd443>, 5, No
+Daniel, cvd950, 24, <cvd647>, 5, Yes
+Vanessa, cvd647, 55, <cvd879>, 4, Yes
+Cristiano, cvd879, 13, <cvd647, cvd443, cvd435>, 5, Yes

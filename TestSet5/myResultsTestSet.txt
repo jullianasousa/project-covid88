@@ -1,0 +1,20 @@
+No contagion between Daniel and Marcelo
+No contagion between Vanessa and Marcelo
+No contagion between Daniel and Gabriela
+No contagion between Gabriela and Cristiano
+No contagion between Vanessa and Cristiano
+No contagion between Vanessa and Daniel
+2
+No contagion between Daniel and Vanessa
+No contagion between Marcelo and Daniel
+No contagion between Cristiano and Gabriela
+No contagion between Cristiano and Vanessa
+4
+No contagion between Vanessa and Gabriela
+No contagion between Cristiano and Daniel
+No contagion between Daniel and Cristiano
+No contagion between Gabriela and Daniel
+No contagion between Gabriela and Vanessa
+No contagion between Marcelo and Vanessa
+No contagion between Cristiano and Marcelo
+No contagion between Marcelo and Cristiano

@@ -1,0 +1,5 @@
+#Name, IdNb, Age, Direct, Fitness, Immune:
+Carlos, cvd443, 50, <cvd123, cvd743>, 2, Yes
+Ana, cvd743, 23, <cvd567>, 4, Yes
+Gui, cvd123, 10, <cvd567,cvd456>, 5, Yes
+Mariana, cdv567, 33, <cvd743>, 3, Yes

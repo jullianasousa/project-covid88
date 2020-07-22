@@ -1,0 +1,5 @@
+#Name, IdNb, Age, Direct, Fitness, Immune:
+Bruno, cvd443, 37, <cvd343>, 3, No
+Manuela, cvd256, 72, <cvd333>, 4, No
+Maria, cvd343, 20, <cvd443, cvd256, cvd333>, 2, No
+Maximilian, cvd333, 26, <cvd443>, 5, No

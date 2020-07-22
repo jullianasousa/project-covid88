@@ -1,0 +1,7 @@
+#Name, IdNb, Age, Direct, Fitness, Immune:
+Maria, cvd443, 23, <cvd647, cvd435, cvd950>, 3, No
+Júnior, cvd435, 10, <cvd647, cvd443, cvd950>, 5, Yes
+Inês, cvd950, 100, <cvd435, cvd647, cvd879>, 1, No
+Paulo, cvd647, 60, <cvd879, cvd142>, 2, Yes
+Rodolfo, cvd879, 19, <cvd950, cvd142>, 3, No
+Marta, cvd142, 90, <>, 4, No

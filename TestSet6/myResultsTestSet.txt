@@ -1,0 +1,30 @@
+0
+No contagion between Janaína and Gabriela
+No contagion between Gabriela and Janaína
+1
+1
+0
+2
+No contagion between Daniel and Janaína
+No contagion between Janaína and Cristiano
+3
+3
+2
+4
+2
+No contagion between Janaína and Daniel
+No contagion between Marcelo and Janaína
+3
+1
+0
+No contagion between Janaína and Vanessa
+No contagion between Cristiano and Janaína
+1
+2
+2
+1
+2
+1
+No contagion between Vanessa and Janaína
+No contagion between Janaína and Marcelo
+1
